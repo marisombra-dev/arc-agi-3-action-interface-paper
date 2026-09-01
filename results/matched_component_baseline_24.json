@@ -1,0 +1,209 @@
+{
+  "all_mouse": {
+    "delta_points": 2.999480288068899,
+    "events": 53876,
+    "legacy24_bbox_n": 24650,
+    "legacy24_bbox_pct": 45.75321107728859,
+    "legacy24_mean_candidates": 21.005030069047443,
+    "rich_bbox_n": 26266,
+    "rich_bbox_pct": 48.752691365357485,
+    "rich_mean_candidates": 23.393867399213008
+  },
+  "mouse_events": 53876,
+  "parsed_events": 180496,
+  "per_env": {
+    "ar25": {
+      "delta_points": 4.395604395604396,
+      "events": 364,
+      "legacy24_bbox_n": 187,
+      "legacy24_bbox_pct": 51.37362637362637,
+      "legacy24_mean_candidates": 9.656593406593407,
+      "rich_bbox_n": 203,
+      "rich_bbox_pct": 55.76923076923077,
+      "rich_mean_candidates": 23.453296703296704
+    },
+    "bp35": {
+      "delta_points": -0.09730781706130393,
+      "events": 3083,
+      "legacy24_bbox_n": 2276,
+      "legacy24_bbox_pct": 73.82419721050924,
+      "legacy24_mean_candidates": 18.3207914369121,
+      "rich_bbox_n": 2273,
+      "rich_bbox_pct": 73.72688939344793,
+      "rich_mean_candidates": 24
+    },
+    "cd82": {
+      "delta_points": 0.0,
+      "events": 544,
+      "legacy24_bbox_n": 528,
+      "legacy24_bbox_pct": 97.05882352941177,
+      "legacy24_mean_candidates": 16.69485294117647,
+      "rich_bbox_n": 528,
+      "rich_bbox_pct": 97.05882352941177,
+      "rich_mean_candidates": 22.137867647058822
+    },
+    "dc22": {
+      "delta_points": 4.810543657331137,
+      "events": 3035,
+      "legacy24_bbox_n": 869,
+      "legacy24_bbox_pct": 28.632619439868204,
+      "legacy24_mean_candidates": 23.749258649093903,
+      "rich_bbox_n": 1015,
+      "rich_bbox_pct": 33.44316309719934,
+      "rich_mean_candidates": 24
+    },
+    "ft09": {
+      "delta_points": 10.836501901140684,
+      "events": 1052,
+      "legacy24_bbox_n": 206,
+      "legacy24_bbox_pct": 19.581749049429657,
+      "legacy24_mean_candidates": 22.980988593155892,
+      "rich_bbox_n": 320,
+      "rich_bbox_pct": 30.418250950570343,
+      "rich_mean_candidates": 24
+    },
+    "ka59": {
+      "delta_points": 17.50841750841751,
+      "events": 297,
+      "legacy24_bbox_n": 231,
+      "legacy24_bbox_pct": 77.77777777777777,
+      "legacy24_mean_candidates": 7.212121212121212,
+      "rich_bbox_n": 283,
+      "rich_bbox_pct": 95.28619528619528,
+      "rich_mean_candidates": 16.646464646464647
+    },
+    "lf52": {
+      "delta_points": 0.3395201448619285,
+      "events": 4418,
+      "legacy24_bbox_n": 2436,
+      "legacy24_bbox_pct": 55.13807152557718,
+      "legacy24_mean_candidates": 23.9402444545043,
+      "rich_bbox_n": 2451,
+      "rich_bbox_pct": 55.47759167043911,
+      "rich_mean_candidates": 24
+    },
+    "lp85": {
+      "delta_points": -0.740002846164793,
+      "events": 14054,
+      "legacy24_bbox_n": 722,
+      "legacy24_bbox_pct": 5.137327451259428,
+      "legacy24_mean_candidates": 24,
+      "rich_bbox_n": 618,
+      "rich_bbox_pct": 4.397324605094635,
+      "rich_mean_candidates": 24
+    },
+    "m0r0": {
+      "delta_points": 3.7914691943127963,
+      "events": 422,
+      "legacy24_bbox_n": 368,
+      "legacy24_bbox_pct": 87.20379146919431,
+      "legacy24_mean_candidates": 6.684834123222749,
+      "rich_bbox_n": 384,
+      "rich_bbox_pct": 90.99526066350711,
+      "rich_mean_candidates": 19.51421800947867
+    },
+    "r11l": {
+      "delta_points": 3.3676975945017182,
+      "events": 2910,
+      "legacy24_bbox_n": 1225,
+      "legacy24_bbox_pct": 42.09621993127148,
+      "legacy24_mean_candidates": 19.58900343642612,
+      "rich_bbox_n": 1323,
+      "rich_bbox_pct": 45.4639175257732,
+      "rich_mean_candidates": 23.999656357388314
+    },
+    "s5i5": {
+      "delta_points": 0.5324980422866092,
+      "events": 6385,
+      "legacy24_bbox_n": 6175,
+      "legacy24_bbox_pct": 96.71104150352389,
+      "legacy24_mean_candidates": 21.792325763508224,
+      "rich_bbox_n": 6209,
+      "rich_bbox_pct": 97.24353954581049,
+      "rich_mean_candidates": 23.959436178543463
+    },
+    "sb26": {
+      "delta_points": 1.174934725848564,
+      "events": 2298,
+      "legacy24_bbox_n": 1614,
+      "legacy24_bbox_pct": 70.23498694516971,
+      "legacy24_mean_candidates": 22.802872062663184,
+      "rich_bbox_n": 1641,
+      "rich_bbox_pct": 71.40992167101828,
+      "rich_mean_candidates": 24
+    },
+    "sc25": {
+      "delta_points": 32.37311385459534,
+      "events": 2187,
+      "legacy24_bbox_n": 613,
+      "legacy24_bbox_pct": 28.02926383173297,
+      "legacy24_mean_candidates": 19.80246913580247,
+      "rich_bbox_n": 1321,
+      "rich_bbox_pct": 60.4023776863283,
+      "rich_mean_candidates": 23.9519890260631
+    },
+    "sk48": {
+      "delta_points": -3.1746031746031744,
+      "events": 567,
+      "legacy24_bbox_n": 310,
+      "legacy24_bbox_pct": 54.673721340388006,
+      "legacy24_mean_candidates": 23.333333333333332,
+      "rich_bbox_n": 292,
+      "rich_bbox_pct": 51.499118165784836,
+      "rich_mean_candidates": 24
+    },
+    "sp80": {
+      "delta_points": 9.430604982206406,
+      "events": 562,
+      "legacy24_bbox_n": 486,
+      "legacy24_bbox_pct": 86.47686832740213,
+      "legacy24_mean_candidates": 10.455516014234876,
+      "rich_bbox_n": 539,
+      "rich_bbox_pct": 95.90747330960853,
+      "rich_mean_candidates": 14.594306049822064
+    },
+    "su15": {
+      "delta_points": 13.323442136498516,
+      "events": 3370,
+      "legacy24_bbox_n": 944,
+      "legacy24_bbox_pct": 28.01186943620178,
+      "legacy24_mean_candidates": 9.923145400593471,
+      "rich_bbox_n": 1393,
+      "rich_bbox_pct": 41.3353115727003,
+      "rich_mean_candidates": 19.2946587537092
+    },
+    "tn36": {
+      "delta_points": -0.6269592476489029,
+      "events": 3828,
+      "legacy24_bbox_n": 1235,
+      "legacy24_bbox_pct": 32.26227795193312,
+      "legacy24_mean_candidates": 21.597701149425287,
+      "rich_bbox_n": 1211,
+      "rich_bbox_pct": 31.63531870428422,
+      "rich_mean_candidates": 24
+    },
+    "vc33": {
+      "delta_points": 0.8222222222222222,
+      "events": 4500,
+      "legacy24_bbox_n": 4225,
+      "legacy24_bbox_pct": 93.88888888888889,
+      "legacy24_mean_candidates": 20.272222222222222,
+      "rich_bbox_n": 4262,
+      "rich_bbox_pct": 94.71111111111111,
+      "rich_mean_candidates": 22.698
+    }
+  },
+  "sessions": 340,
+  "skipped_mouse_events": 0,
+  "unique_preclick_states": 42171,
+  "winning_sessions": {
+    "delta_points": 2.611656463940305,
+    "events": 27607,
+    "legacy24_bbox_n": 12336,
+    "legacy24_bbox_pct": 44.684319194407216,
+    "legacy24_mean_candidates": 21.356358894483282,
+    "rich_bbox_n": 13057,
+    "rich_bbox_pct": 47.29597565834752,
+    "rich_mean_candidates": 23.548266743941753
+  }
+}

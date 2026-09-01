@@ -1,0 +1,15 @@
+{
+  "selected_policy": "static",
+  "kernel": "patriciapurtill/patricia-arc-paper-v48-representative",
+  "kernel_version": 1,
+  "description": "Paper Track representative v48 static policy",
+  "submission_rows": 1,
+  "submission_columns": 4,
+  "api_response": {
+    "ref": 55929903
+  },
+  "submission_ref": 55929903,
+  "status": null,
+  "public_score": null,
+  "submission_url": "/code/patriciapurtill/patricia-arc-paper-v48-representative?scriptVersionId=346396201"
+}

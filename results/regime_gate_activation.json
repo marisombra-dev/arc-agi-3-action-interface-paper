@@ -1,0 +1,188 @@
+{
+  "folds": [
+    {
+      "beneficial_switch_pct": 0.010810810810810811,
+      "covered_events": 185,
+      "env": "ar25",
+      "gate_activation_pct": 0.032432432432432434,
+      "harmful_switch_pct": 0.0,
+      "median_mouse_history": 5.0,
+      "neutral_switch_pct": 0.021621621621621623,
+      "no_history_pct": 0.06486486486486487
+    },
+    {
+      "beneficial_switch_pct": 0.2988624612202689,
+      "covered_events": 1934,
+      "env": "bp35",
+      "gate_activation_pct": 0.9948293691830403,
+      "harmful_switch_pct": 0.0796277145811789,
+      "median_mouse_history": 31.0,
+      "neutral_switch_pct": 0.6163391933815926,
+      "no_history_pct": 0.005170630816959669
+    },
+    {
+      "beneficial_switch_pct": 0.004048582995951417,
+      "covered_events": 494,
+      "env": "cd82",
+      "gate_activation_pct": 0.3299595141700405,
+      "harmful_switch_pct": 0.0020242914979757085,
+      "median_mouse_history": 14.0,
+      "neutral_switch_pct": 0.32388663967611336,
+      "no_history_pct": 0.018218623481781375
+    },
+    {
+      "beneficial_switch_pct": 0.008213552361396304,
+      "covered_events": 487,
+      "env": "dc22",
+      "gate_activation_pct": 0.045174537987679675,
+      "harmful_switch_pct": 0.0,
+      "median_mouse_history": 39.0,
+      "neutral_switch_pct": 0.03696098562628337,
+      "no_history_pct": 0.012320328542094456
+    },
+    {
+      "beneficial_switch_pct": 0.0,
+      "covered_events": 219,
+      "env": "ft09",
+      "gate_activation_pct": 0.0502283105022831,
+      "harmful_switch_pct": 0.0136986301369863,
+      "median_mouse_history": 39.0,
+      "neutral_switch_pct": 0.0365296803652968,
+      "no_history_pct": 0.0091324200913242
+    },
+    {
+      "beneficial_switch_pct": 0.0035587188612099642,
+      "covered_events": 281,
+      "env": "ka59",
+      "gate_activation_pct": 0.3594306049822064,
+      "harmful_switch_pct": 0.0,
+      "median_mouse_history": 5.0,
+      "neutral_switch_pct": 0.35587188612099646,
+      "no_history_pct": 0.07473309608540925
+    },
+    {
+      "beneficial_switch_pct": 0.5506072874493927,
+      "covered_events": 1729,
+      "env": "lf52",
+      "gate_activation_pct": 0.9907460960092539,
+      "harmful_switch_pct": 0.0167727009832273,
+      "median_mouse_history": 33.0,
+      "neutral_switch_pct": 0.4233661075766339,
+      "no_history_pct": 0.002313475997686524
+    },
+    {
+      "beneficial_switch_pct": 0.003676470588235294,
+      "covered_events": 272,
+      "env": "lp85",
+      "gate_activation_pct": 0.15808823529411764,
+      "harmful_switch_pct": 0.011029411764705883,
+      "median_mouse_history": 49.0,
+      "neutral_switch_pct": 0.14338235294117646,
+      "no_history_pct": 0.03308823529411765
+    },
+    {
+      "beneficial_switch_pct": 0.09840425531914894,
+      "covered_events": 376,
+      "env": "m0r0",
+      "gate_activation_pct": 0.43882978723404253,
+      "harmful_switch_pct": 0.0026595744680851063,
+      "median_mouse_history": 6.0,
+      "neutral_switch_pct": 0.3377659574468085,
+      "no_history_pct": 0.05585106382978723
+    },
+    {
+      "beneficial_switch_pct": 0.04882301656495205,
+      "covered_events": 1147,
+      "env": "r11l",
+      "gate_activation_pct": 0.9965126416739319,
+      "harmful_switch_pct": 0.013077593722755012,
+      "median_mouse_history": 63.0,
+      "neutral_switch_pct": 0.934612031386225,
+      "no_history_pct": 0.0034873583260680036
+    },
+    {
+      "beneficial_switch_pct": 0.0,
+      "covered_events": 6114,
+      "env": "s5i5",
+      "gate_activation_pct": 0.09911678115799803,
+      "harmful_switch_pct": 0.002780503761858031,
+      "median_mouse_history": 63.0,
+      "neutral_switch_pct": 0.09633627739614001,
+      "no_history_pct": 0.001799149492966961
+    },
+    {
+      "beneficial_switch_pct": 0.002403846153846154,
+      "covered_events": 1248,
+      "env": "sb26",
+      "gate_activation_pct": 0.040865384615384616,
+      "harmful_switch_pct": 0.0,
+      "median_mouse_history": 57.0,
+      "neutral_switch_pct": 0.038461538461538464,
+      "no_history_pct": 0.008012820512820512
+    },
+    {
+      "beneficial_switch_pct": 0.037241379310344824,
+      "covered_events": 725,
+      "env": "sc25",
+      "gate_activation_pct": 0.4496551724137931,
+      "harmful_switch_pct": 0.004137931034482759,
+      "median_mouse_history": 23.0,
+      "neutral_switch_pct": 0.40827586206896554,
+      "no_history_pct": 0.009655172413793104
+    },
+    {
+      "beneficial_switch_pct": 0.06329113924050633,
+      "covered_events": 158,
+      "env": "sk48",
+      "gate_activation_pct": 0.1518987341772152,
+      "harmful_switch_pct": 0.0,
+      "median_mouse_history": 7.0,
+      "neutral_switch_pct": 0.08860759493670886,
+      "no_history_pct": 0.03164556962025317
+    },
+    {
+      "beneficial_switch_pct": 0.20669291338582677,
+      "covered_events": 508,
+      "env": "sp80",
+      "gate_activation_pct": 0.8031496062992126,
+      "harmful_switch_pct": 0.017716535433070866,
+      "median_mouse_history": 9.0,
+      "neutral_switch_pct": 0.5787401574803149,
+      "no_history_pct": 0.017716535433070866
+    },
+    {
+      "beneficial_switch_pct": 0.12849162011173185,
+      "covered_events": 1253,
+      "env": "su15",
+      "gate_activation_pct": 0.5602553870710295,
+      "harmful_switch_pct": 0.017557861133280128,
+      "median_mouse_history": 59.0,
+      "neutral_switch_pct": 0.4142059058260176,
+      "no_history_pct": 0.010375099760574621
+    },
+    {
+      "beneficial_switch_pct": 0.20585048754062837,
+      "covered_events": 923,
+      "env": "tn36",
+      "gate_activation_pct": 0.9079089924160346,
+      "harmful_switch_pct": 0.04875406283856988,
+      "median_mouse_history": 63.0,
+      "neutral_switch_pct": 0.6533044420368364,
+      "no_history_pct": 0.013001083423618635
+    },
+    {
+      "beneficial_switch_pct": 0.07769276044732196,
+      "covered_events": 3398,
+      "env": "vc33",
+      "gate_activation_pct": 0.5397292525014714,
+      "harmful_switch_pct": 0.08711006474396704,
+      "median_mouse_history": 64.0,
+      "neutral_switch_pct": 0.37492642731018244,
+      "no_history_pct": 0.00264861683343143
+    }
+  ],
+  "macro_beneficial_switch_pct": 0.09714829457564292,
+  "macro_gate_activation_pct": 0.44160060222895375,
+  "macro_harmful_switch_pct": 0.017608159783341275,
+  "macro_neutral_switch_pct": 0.32684414786996957
+}

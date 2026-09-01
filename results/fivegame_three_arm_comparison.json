@@ -1,0 +1,188 @@
+[
+  {
+    "games": [
+      {
+        "game": "ft09-0d8bbf25",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 21,
+        "tokens": 5489
+      },
+      {
+        "game": "ls20-9607627b",
+        "score": 3.57,
+        "levels_cleared": 1.0,
+        "levels_total": 7.0,
+        "actions": 83,
+        "tokens": 272
+      },
+      {
+        "game": "m0r0-492f87ba",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 2,
+        "tokens": 962
+      },
+      {
+        "game": "r11l-495a7899",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 3,
+        "tokens": 1516
+      },
+      {
+        "game": "sp80-589a99af",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 14,
+        "tokens": 4484
+      }
+    ],
+    "levels_cleared_total": 1.0,
+    "levels_total": 31.0,
+    "actions_total": 123,
+    "tokens_total": 12723,
+    "mean_score": 0.714,
+    "arm": "static",
+    "version": 1,
+    "seed": "20260831",
+    "seed_provenance": {
+      "version": 1,
+      "staged_notebook_sha256": "cfe57be259b4e6133da2dec2570b2312f5c9fa44b8b5de7f69bbdb58869e0c64",
+      "pulled_executable_sources_equal_staged": true,
+      "pulled_executable_source_sha256": "fbbed53bfb07bb7ed3c48b1fcb8c003a059564034b538e3fd21a0e514eeb88f3",
+      "seed_assignment_count": 1,
+      "seed_assignment": "os.environ[\"LOCAL_ANALYZER_SEED\"] = \"20260831\""
+    },
+    "summary_sha256": "04a8a236900be0d718ec30b770d5d2cb5f4e3ea25ad0b0c515227dc18579d506",
+    "manifest_sha256": "7db528b4ea0afef7b5aed83cb5dcb38544cc82881950703da8c581087c472e26"
+  },
+  {
+    "games": [
+      {
+        "game": "ft09-0d8bbf25",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 22,
+        "tokens": 7541
+      },
+      {
+        "game": "ls20-9607627b",
+        "score": 3.57,
+        "levels_cleared": 1.0,
+        "levels_total": 7.0,
+        "actions": 150,
+        "tokens": 2298
+      },
+      {
+        "game": "m0r0-492f87ba",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 0,
+        "tokens": 0
+      },
+      {
+        "game": "r11l-495a7899",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 5,
+        "tokens": 2480
+      },
+      {
+        "game": "sp80-589a99af",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 8,
+        "tokens": 1955
+      }
+    ],
+    "levels_cleared_total": 1.0,
+    "levels_total": 31.0,
+    "actions_total": 185,
+    "tokens_total": 14274,
+    "mean_score": 0.714,
+    "arm": "v47",
+    "version": 2,
+    "seed": "20260831",
+    "seed_provenance": {
+      "version": 2,
+      "staged_notebook_sha256": "2bd90344a9a18b1719839aac37035e70b814ca94f31c6e314a57e42c63993b9d",
+      "pulled_executable_sources_equal_staged": true,
+      "pulled_executable_source_sha256": "9c3c5930f093fdad083559e305a4d5b314a02b2cf0cd20bd26c3aec6be31b2e4",
+      "seed_assignment_count": 1,
+      "seed_assignment": "os.environ[\"LOCAL_ANALYZER_SEED\"] = \"20260831\""
+    },
+    "summary_sha256": "6e23d24e16326dec3ce84879ec044e31b9e5c4bd52c7fa35a6537508100ad948",
+    "manifest_sha256": "9604f2d0739bee5c6bed08f127e23b82ddca3ae4c7a7fbeebab05e58c15cb50e"
+  },
+  {
+    "games": [
+      {
+        "game": "ft09-0d8bbf25",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 21,
+        "tokens": 5715
+      },
+      {
+        "game": "ls20-9607627b",
+        "score": 3.57,
+        "levels_cleared": 1.0,
+        "levels_total": 7.0,
+        "actions": 150,
+        "tokens": 2272
+      },
+      {
+        "game": "m0r0-492f87ba",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 2,
+        "tokens": 843
+      },
+      {
+        "game": "r11l-495a7899",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 3,
+        "tokens": 1249
+      },
+      {
+        "game": "sp80-589a99af",
+        "score": 0.0,
+        "levels_cleared": 0.0,
+        "levels_total": 6.0,
+        "actions": 8,
+        "tokens": 2148
+      }
+    ],
+    "levels_cleared_total": 1.0,
+    "levels_total": 31.0,
+    "actions_total": 184,
+    "tokens_total": 12227,
+    "mean_score": 0.714,
+    "arm": "regime",
+    "version": 3,
+    "seed": "20260831",
+    "seed_provenance": {
+      "version": 3,
+      "staged_notebook_sha256": "1497f121bf712e96731c268dc723f10b8cd29944de7e1f430a5910b922c312a8",
+      "pulled_executable_sources_equal_staged": true,
+      "pulled_executable_source_sha256": "21df25e5377ccc1914d5b6fb9be056023f325262aee29f27c86ee69ea5690909",
+      "seed_assignment_count": 1,
+      "seed_assignment": "os.environ[\"LOCAL_ANALYZER_SEED\"] = \"20260831\""
+    },
+    "summary_sha256": "648a0341a5ddf24800929913f4ff892b68746ce5c5117760aebf09b636fde287",
+    "manifest_sha256": "e42e8e8be26ffba81d98fdf6e9f79cdacb1e951926e85a20a2b2806975405cd6"
+  }
+]
